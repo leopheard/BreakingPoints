@@ -1,6 +1,6 @@
 <a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://breaking-points.simplecast.com">Breaking Points</a> podcast.<br>
 
-<img src="https://image.simplecastcdn.com/images/a2694d6e-ef6f-4f27-871c-e4396781ef11/4dee98e9-5154-4f50-8cd8-f170f8da8032/3000x3000/podcast-artwork.jpg?aid=rss_feed"><br>
+<img src="https://image.simplecastcdn.com/images/a2694d6e-ef6f-4f27-871c-e4396781ef11/4dee98e9-5154-4f50-8cd8-f170f8da8032/3000x3000/podcast-artwork.jpg?aid=rss_feed" width="400" height="400" alt="Breaking Points"><br>
 
 <a href="https://breaking-points.simplecast.com">Breaking Points</a> is a fearless anti-establishment multi-week Youtube and Podcast which holds the powerful to account hosted by Krystal Ball and Saagar Enjeti<br>
 
